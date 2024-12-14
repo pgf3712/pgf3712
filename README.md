@@ -2,7 +2,7 @@
 Here, I showcase a selection of projects that combine Data Science, Machine Learning, and Artificial Intelligence to tackle complex challenges and drive innovation across education, cultural preservation, and social support systems.
 ---
 
-## 👱🏻‍♀️ About Me  
+## 🎷🐈‍⬛🎨🖥️👱🏻‍♀️ About Me  
 🎓 **PhD in Artificial Intelligence Applied to Cultural Heritage Preservation**  
 📊 **Passionate about transforming data into actionable insights** to address challenges across education, health, cultural engagement, and social inclusion.  
 🔗 **Interdisciplinary problem solver**, bridging technology and creativity to design innovative solutions.  
