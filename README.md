@@ -2,6 +2,11 @@
 Here, I showcase a selection of projects that combine Data Science, Machine Learning, and Artificial Intelligence to tackle complex challenges and drive innovation across education, cultural preservation, and social support systems.
 ---
 
+<p align="center">
+  <img src="./images/guru.png" alt="Descripción de la imagen">
+</p>
+
+---
 ## 👩‍💻🎷🎨🧠 About Me
 
 🎓 **PhD in Artificial Intelligence for Cultural Heritage Preservation**  
