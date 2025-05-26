@@ -3,7 +3,7 @@ Here, I showcase a selection of projects that combine Data Science, Machine Lear
 ---
 
 <p align="center">
-  <img src="./images/guru.png" alt="Descripción de la imagen">
+  <img src="./images/portrait.png" alt="Descripción de la imagen">
 </p>
 
 ---
