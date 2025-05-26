@@ -2,11 +2,21 @@
 Here, I showcase a selection of projects that combine Data Science, Machine Learning, and Artificial Intelligence to tackle complex challenges and drive innovation across education, cultural preservation, and social support systems.
 ---
 
-## 🎷🎨🖥️👱🏻‍♀️ About Me  
-🎓 **PhD in Artificial Intelligence Applied to Cultural Heritage Preservation**  
-📊 **Passionate about transforming data into actionable insights** to address challenges across education, health, cultural engagement, and social inclusion.  
-🔗 **Interdisciplinary problem solver**, bridging technology and creativity to design innovative solutions.  
-📖 Fields of expertise: AI-driven decision-making, exploratory data analysis, and predictive modeling.  
+## 👩‍💻🎷🎨🧠 About Me
+
+🎓 **PhD in Artificial Intelligence for Cultural Heritage Preservation**  
+🏢 **AI Engineer & Data Scientist at Tragsatec (Grupo Tragsa)**  
+📊 Passionate about **transforming complex data into actionable insights** to tackle challenges in **education, health, cultural engagement, and social inclusion**.  
+🧩 **Interdisciplinary problem-solver**, combining **technology, creativity, and strategy** to build innovative solutions.  
+
+🧠 **Expert in:**
+- AI-driven decision-making  
+- Exploratory Data Analysis (EDA)  
+- Predictive Modeling  
+- Cultural analytics  
+
+🎨 Blending art and code, I believe **AI is not only a tool for logic, but also a medium for creative expression**.
+
 
 ---
 
@@ -56,22 +66,36 @@ A chatbot developed in collaboration with **FELGTBI+**, designed to reduce stigm
 
 ---
 
-## 🛠️ Tools and Technologies  
+## 🛠️ Tools and Technologies
 
-### **Programming Languages**  
-- Python, SQL  
+### 💻 **Programming Languages**
+- Python, SQL, Java, HTML/CSS, JavaScript
 
-### **Machine Learning / AI**  
-- Scikit-Learn, TensorFlow, Gemini AI, LangChain  
+### 🧠 **Machine Learning / AI**
+- Scikit-learn, TensorFlow, Gemini AI, LangChain, PyTorch, FastAI  
+- Convolutional Neural Networks, Transformers, Generative AI
 
-### **Data Analysis**  
-- Pandas, NumPy  
+### 📊 **Data Analysis & Visualization**
+- Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium  
+- Tableau, Power BI
 
-### **Visualization**  
-- Matplotlib, Seaborn, Plotly, Folium  
+### 🌍 **Geospatial & GIS**
+- ArcGIS Pro, ArcGIS Online, Raster & Vector Analysis  
+- Spatial Data Science, Geoprocessing with Python
 
-### **Deployment and Frameworks**  
-- FastAPI, Streamlit, Docker, AWS  
+### 🚀 **Deployment & Frameworks**
+- FastAPI, Streamlit, Flask, Docker, AWS
+
+### 🎨 **Creative & 3D Tools**
+- Adobe Creative Cloud (Photoshop, Illustrator)  
+- Blender, Maya, ZBrush, Substance Painter  
+- VR/AR Environment Design
+
+### 🧰 **Dev Tools & Other**
+- Git & GitHub, VS Code, Jupyter Notebooks  
+- MongoDB, Web Scraping (BeautifulSoup, Selenium)  
+- Docker, CI/CD (basics)
+
 
 ---
 
