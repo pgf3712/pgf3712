@@ -126,4 +126,5 @@ Scrum · CI/CD basics
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/paula-garcia-fernandez-pgf3712/ 
+- LinkedIn: https://www.linkedin.com/in/paula-garcia-fernandez-pgf3712/
+- ArtStation: https://www.artstation.com/paula_garcia/
