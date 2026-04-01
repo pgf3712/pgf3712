@@ -6,7 +6,7 @@ Madrid, Spain
 ---
 
 <p align="center">
-  <img src="./images/portrait_2.png" alt="Paula García Fernández" width="250">
+  <img src="./images/portrait_2.png" alt="Paula García Fernández" width="1920">
 </p>
 
 ---
