@@ -1,109 +1,129 @@
-# 📖 Welcome to the GitHub profile of Paula García Fernández
-Here, I showcase a selection of projects that combine Data Science, Machine Learning, and Artificial Intelligence to tackle complex challenges and drive innovation across education, cultural preservation, and social support systems.
+# 📖 Paula García Fernández
+
+AI / Cloud Engineer · Data Scientist  
+Madrid, Spain  
+
 ---
 
 <p align="center">
-  <img src="./images/portrait.png" alt="Descripción de la imagen">
+  <img src="./images/portrait_2.png" alt="Paula García Fernández" width="250">
 </p>
 
 ---
-## 👩‍💻🎷🎨🧠 About Me
 
-🎓 **PhD in Artificial Intelligence for Cultural Heritage Preservation**  
-🏢 **AI Engineer & Data Scientist at Tragsatec (Grupo Tragsa)**  
-📊 Passionate about **transforming complex data into actionable insights** to tackle challenges in **education, health, cultural engagement, and social inclusion**.  
-🧩 **Interdisciplinary problem-solver**, combining **technology, creativity, and strategy** to build innovative solutions.  
+## About
 
-🧠 **Expert in:**
-- AI-driven decision-making  
-- Exploratory Data Analysis (EDA)  
-- Predictive Modeling  
-- Cultural analytics  
+I am a Data Scientist evolving towards **AI and Cloud Architecture**, working at the intersection of:
 
-🎨 Blending art and code, I believe **AI is not only a tool for logic, but also a medium for creative expression**.
+- Machine Learning and AI systems  
+- Cloud-native architectures (AWS)  
+- Geospatial data and real-world applications  
 
+My work focuses on **building scalable, production-oriented solutions**, combining data, infrastructure, and intelligent systems.
 
 ---
 
-## 💡 Featured Projects  
+## Featured Projects
 
-### 🎓 **Academic Success Prediction**  
-A Machine Learning project that predicts whether high school students will graduate and provides personalized academic guidance for higher education in Madrid.  
-- **Key Features**:  
-  - Interactive app built with **Streamlit** to classify students and recommend career paths based on their academic profiles.  
-  - **Best Model**: Support Vector Machines (SVM) achieving a precision of 90%.  
-  - Includes socio-economic data and academic performance metrics.  
+### ☁️ Salud360 — Cloud Architecture (AWS)
+Production-oriented cloud architecture designed following AWS Well-Architected principles.
 
-[Explore the project here](https://github.com/pgf3712/Machine-Learning---Predicting-Academic-Success-and-Dropout-Risk-in-Students-)  
+- WordPress deployed on **EC2 + Aurora MySQL (private subnet)**
+- Secure architecture with **VPC, subnets, and Security Groups**
+- Focus on **cost optimization, reliability, and GDPR-aware design**
+- Includes full architectural documentation and deployment decisions
 
----
-
-### 📊 **Cultural Activities Consumption Analysis**  
-An Exploratory Data Analysis (EDA) of cultural activities consumption in Madrid, with a focus on the **JOBO cultural voucher program**.  
-- **Key Insights**:  
-  - Seasonal trends in museum visits and cultural events.  
-  - Differences in preferences by demographic factors such as age, gender, and educational background.  
-  - Visualization of user distribution with **GeoJSON** and interactive maps using **Folium**.  
-
-[Discover the findings](https://github.com/pgf3712/EDA_Madrid_Museums)  
+🔗 https://github.com/pgf3712/salud360-cloud-architecture  
 
 ---
 
-### 🏛️ **Bureaucratic Guru**  
-An intelligent AI assistant that simplifies bureaucratic processes in Spain, powered by **Gemini AI** and built with **FastAPI**.  
-- **Main Features**:  
-  - Provides personalized answers to complex queries, including labor rights, healthcare, and tax procedures.  
-  - Dockerized for quick deployment and scalability.  
-  - User-friendly interface with dynamic menus.  
+### 🏳️‍🌈 EVE Chatbot — AI for Social Support
+Conversational AI system developed for **health and social support contexts**.
 
-[Try Bureaucratic Guru](https://github.com/pgf3712/GURU_BUROCRATICO_AI_generator)  
+- LLM-based chatbot for sensitive topics (HIV awareness)
+- Designed with **privacy and anonymization principles**
+- Backend with **PostgreSQL + API architecture**
 
----
-
-### 🏳️‍🌈 **EVE: Chatbot for LGTBI+ Community Support**  
-A chatbot developed in collaboration with **FELGTBI+**, designed to reduce stigma around HIV and provide accessible resources for both users and healthcare professionals.  
-- **Capabilities**:  
-  - Information on prevention, diagnosis, and treatment of HIV.  
-  - Personalized consultations using **Gemini AI**.  
-  - Secure, anonymized data handling with **PostgreSQL** and robust cybersecurity measures.  
-
-[Learn more about EVE](https://github.com/pgf3712/FELGTBI--The-Bridge)  
+🔗 https://github.com/pgf3712/FELGTBI--The-Bridge  
 
 ---
 
-## 🛠️ Tools and Technologies
+### 🤖 Bureaucratic Guru — LLM Assistant
+AI assistant designed to simplify bureaucratic processes in Spain.
 
-### 💻 **Programming Languages**
-- Python, SQL, Java, HTML/CSS, JavaScript
+- Built with **FastAPI + Gemini AI**
+- Structured + generative responses for legal/administrative queries  
+- Dockerized for scalable deployment  
 
-### 🧠 **Machine Learning / AI**
-- Scikit-learn, TensorFlow, Gemini AI, LangChain, PyTorch, FastAI  
-- Convolutional Neural Networks, Transformers, Generative AI
-
-### 📊 **Data Analysis & Visualization**
-- Pandas, NumPy, Matplotlib, Seaborn, Plotly, Folium  
-- Tableau, Power BI
-
-### 🌍 **Geospatial & GIS**
-- ArcGIS Pro, ArcGIS Online, Raster & Vector Analysis  
-- Spatial Data Science, Geoprocessing with Python
-
-### 🚀 **Deployment & Frameworks**
-- FastAPI, Streamlit, Flask, Docker, AWS
-
-### 🎨 **Creative & 3D Tools**
-- Adobe Creative Cloud (Photoshop, Illustrator)  
-- Blender, Maya, ZBrush, Substance Painter  
-- VR/AR Environment Design
-
-### 🧰 **Dev Tools & Other**
-- Git & GitHub, VS Code, Jupyter Notebooks  
-- MongoDB, Web Scraping (BeautifulSoup, Selenium)  
-- Docker, CI/CD (basics)
-
+🔗 https://github.com/pgf3712/GURU_BUROCRATICO_AI_generator  
 
 ---
 
-## 📫 Connect with Me  
-If you’re interested in my work or looking to collaborate on **Data Science**, **AI projects**, or **interdisciplinary solutions**, feel free to reach out:  
-- [LinkedIn](https://www.linkedin.com/in/paula-garc%C3%ADa-fern%C3%A1ndez-84b97a1b1/)  
+### 📊 Cultural Data Analysis — Madrid
+Exploratory Data Analysis of cultural consumption patterns.
+
+- Behavioral insights across demographics  
+- Geospatial visualization using **GeoJSON + Folium**  
+- Focus on public policy and cultural engagement  
+
+🔗 https://github.com/pgf3712/EDA_Madrid_Museums  
+
+---
+
+### 🎓 Academic Success Prediction
+Machine Learning model to predict student outcomes and guide academic decisions.
+
+- SVM model achieving **~90% precision**  
+- Interactive app built with **Streamlit**  
+- Combines academic and socio-economic variables  
+
+🔗 https://github.com/pgf3712/Machine-Learning---Predicting-Academic-Success-and-Dropout-Risk-in-Students-  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming
+Python · SQL · JavaScript  
+
+### 🧠 AI / Machine Learning
+PyTorch · TensorFlow · Scikit-learn · FastAI  
+Computer Vision · Time Series · NLP · Generative AI · Transformers  
+
+### 🤖 LLM & AI Systems
+LangChain · Gemini AI · LLM APIs · Prompt Engineering  
+AI Assistants · Retrieval-based systems (RAG basics)  
+
+### 📊 Data & Analytics
+Pandas · NumPy · Plotly · Power BI · Tableau  
+EDA · Data Wrangling · Feature Engineering  
+
+### 🌍 Geospatial & Remote Sensing
+ArcGIS Pro · QGIS · GeoPandas  
+Raster processing · Multispectral analysis · Spatial modeling  
+
+### ☁️ Cloud & Infrastructure
+AWS · GCP · Azure (fundamentals)  
+Docker · API development (FastAPI)  
+Cloud architectures · Deployment pipelines  
+
+### ⚙️ Data Engineering
+PySpark · Data pipelines · Large-scale data processing  
+Automation · ETL workflows  
+
+### 🧱 Backend & Systems
+FastAPI · REST APIs · PostgreSQL · MongoDB  
+
+### 🎨 3D / XR / Creative Tech
+Blender · Maya · ZBrush  
+Geometry Nodes · VR/AR environments · Real-time rendering  
+
+### 🧰 Tools
+Git · GitHub · VS Code · Jupyter  
+Scrum · CI/CD basics  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/paula-garc%C3%ADa-fern%C3%A1ndez-84b97a1b1/  
