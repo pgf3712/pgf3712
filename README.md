@@ -12,7 +12,7 @@
 [![ArtStation](https://img.shields.io/badge/ArtStation-Creative_work-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/paula_garcia/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pgf3712)
 
-Madrid, Spain · Spanish (native) · English (C1) · French (B2)
+Madrid, Spain 
 
 </div>
 
