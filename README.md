@@ -12,7 +12,7 @@
 [![ArtStation](https://img.shields.io/badge/ArtStation-Creative_work-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/paula_garcia/)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pgf3712)
 
-Madrid, Spain 
+Madrid, Spain
 
 </div>
 
@@ -39,7 +39,7 @@ I am also a PhD candidate researching AI for heritage digitisation and 3D recons
 <tr>
 <td width="50%" valign="top">
 
-### [Agent Atelier](https://github.com/pgf3712/agent-atelier)
+### [🎨 Agent Atelier](https://github.com/pgf3712/agent-atelier)
 
 **Agent engineering · Explicit agent harness · Bilingual learning lab**
 
@@ -50,7 +50,20 @@ An offline-first educational application that exposes how an AI agent works from
 </td>
 <td width="50%" valign="top">
 
-### [Spatial Evidence Studio](https://github.com/pgf3712/spatial-evidence-studio)
+### [🔎 ReviewLens MCP](https://github.com/pgf3712/reviewlens-mcp)
+
+**Model Context Protocol · GitHub review · Evidence-first engineering**
+
+A secure, read-only MCP server for technical pull-request review. It exposes seven typed tools, separates deterministic evidence collection from model interpretation and includes prompt-injection defences, a credential-free demo and bilingual documentation.
+
+`Python` `MCP` `GitHub API` `Security` `Pydantic`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [🛰️ Spatial Evidence Studio](https://github.com/pgf3712/spatial-evidence-studio)
 
 **Spec-driven development · GIS · Reproducible evidence**
 
@@ -59,11 +72,9 @@ A practical **spec-driven development** case for geospatial change review. Versi
 `Python` `GIS` `GeoJSON` `Specifications` `Data lineage`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### [Salud360](https://github.com/pgf3712/salud360-cloud-architecture)
+### [☁️ Salud360](https://github.com/pgf3712/salud360-cloud-architecture)
 
 **Cloud architecture · AWS Well-Architected**
 
@@ -72,9 +83,11 @@ A documented AWS architecture exercise covering EC2, Aurora MySQL, private netwo
 `AWS` `Cloud architecture` `Security` `Documentation`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### [EVE Chatbot](https://github.com/pgf3712/FELGTBI--The-Bridge)
+### [💬 EVE Chatbot](https://github.com/pgf3712/FELGTBI--The-Bridge)
 
 **Conversational AI · Social impact · Collaborative project**
 
