@@ -87,6 +87,19 @@ A documented AWS architecture exercise covering EC2, Aurora MySQL, private netwo
 <tr>
 <td colspan="2" valign="top">
 
+### [🌀 Optical Motion Lab](https://github.com/pgf3712/optical-motion-lab)
+
+**Procedural 3D art · Blender · Animated optical illusions**
+
+A curated op-art series built in Blender with Python. Three animated studies explore shifting checkers, chromatic waves and kinetic forms through procedural geometry, materials and motion.
+
+`Blender` `Python` `Procedural art` `3D animation`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
 ### [💬 EVE Chatbot](https://github.com/pgf3712/FELGTBI--The-Bridge)
 
 **Conversational AI · Social impact · Collaborative project**
@@ -136,3 +149,4 @@ I am always interested in thoughtful conversations about applied AI, geospatial 
 [LinkedIn](https://www.linkedin.com/in/paula-garcia-fernandez-pgf3712/) · [ArtStation](https://www.artstation.com/paula_garcia/) · [GitHub](https://github.com/pgf3712)
 
 </div>
+
